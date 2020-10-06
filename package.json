@@ -1,0 +1,19 @@
+{
+  "name": "calculatorproject",
+  "version": "1.0.0",
+  "description": "an exercise using HTML CSS and JS to build a calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sacullezzar/calculatorProject.git"
+  },
+  "author": "sacullezzar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sacullezzar/calculatorProject/issues"
+  },
+  "homepage": "https://github.com/sacullezzar/calculatorProject#readme"
+}
